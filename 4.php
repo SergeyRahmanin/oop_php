@@ -28,9 +28,7 @@ class Car
 
 $myCar = new Car('red',2017,'Mersedes'); //новый слепок
 
-//$myCar->color = 'red';
-//$myCar->year = 2017;
-//$myCar->manufacturer = 'Mersedes';
+
 
 $myCar->startEngine();
 $myCar->go();
